@@ -1,4 +1,5 @@
 export { darkTheme, lightTheme } from "../react/web/ui/design-system/index.js";
+export { connectionManager} from "../react/core/connectionManager.js"
 export type {
   Theme,
   ThemeOverrides,
